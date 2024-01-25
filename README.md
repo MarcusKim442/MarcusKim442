@@ -15,9 +15,9 @@ I am a Computing Science student with expertise in AI/ML via work experience and
 
 🛠 Take a look at some of my projects:
 
-  - <a href="https://github.com/1akarshan/hacked-beta" target="blank" rel="noreferrer">ASL Educational Phone App</a>: HackED Beta Hackathon Winner (Devpost)
+  - <a href="https://github.com/1akarshan/hacked-beta" target="blank" rel="noreferrer">ASL Educational Phone App</a>: HackED Beta Hackathon Winner (<a href="https://devpost.com/software/aslingo" target="blank" rel="noreferrer">Devpost</a>)
   - <a href="https://github.com/1pharaxh/FocusGuard" target="blank" rel="noreferrer">LLM-Powered Chrome Extension for Productivity</a>: DevelopED 2.0 Hackathon Winner
-  - Contributed to <a href="https://github.com/MarcusKim442/hog2" target="blank" rel="noreferrer">HOG2</a>, an AI/Pathfinding Testbed
+  - <a href="https://github.com/MarcusKim442/hog2" target="blank" rel="noreferrer">HOG2</a>: (Contributed) an AI/Pathfinding Testbed
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
