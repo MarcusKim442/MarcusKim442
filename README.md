@@ -15,14 +15,18 @@ I am a Computing Science student with expertise in AI/ML via work experience and
 
 🛠 Take a look at some of my projects:
 
+  - <a href="https://github.com/1akarshan/hacked-beta" target="blank" rel="noreferrer">ASL Educational Phone App</a>: HackED Beta Hackathon Winner (Devpost)
+  - <a href="https://github.com/1pharaxh/FocusGuard" target="blank" rel="noreferrer">LLM-Powered Chrome Extension for Productivity</a>: DevelopED 2.0 Hackathon Winner
+  - Contributed to <a href="https://github.com/MarcusKim442/hog2" target="blank" rel="noreferrer">HOG2</a>, an AI/Pathfinding Testbed
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <h4 align="left">Machine Learning</h4> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtj4KdFU7jmWYeRrQkvVrXutBhv0NQZourbWmG7333Q&s" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtj4KdFU7jmWYeRrQkvVrXutBhv0NQZourbWmG7333Q&s" alt="numpy" width="40" height="40"/> </a> 
 <h4 align="left">Languages:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
