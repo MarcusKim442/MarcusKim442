@@ -11,7 +11,7 @@ I am a Computing Science student with expertise in AI/ML via work experience and
 
 - ⚡ Fun Fact: I ❤ game design 🎮 Contact me if you want to work on a Gam Jam together!
   
-- 📫 Reach me at **marcus5@ualberta.ca**
+- 📫 Reach me at marcus5@ualberta.ca
 
 🛠 Take a look at some of my projects:
 
